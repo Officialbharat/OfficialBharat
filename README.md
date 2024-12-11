@@ -13,8 +13,8 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ## 📊 GitHub Stats
-![Bharat GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bheesham-mm&show_icons=true&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Bheesham-mm&theme=radical)](https://git.io/streak-stats)
+![Bharat GitHub Stats](https://github-readme-stats.vercel.app/api?username=OfficialBharat&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=OfficialBharat&theme=radical)](https://git.io/streak-stats)
 
 ## 📝 Latest Blog Posts
 - [How to create a responsive login form](#)
@@ -45,8 +45,8 @@
 
 ** Social Proof**
 ## 🌟 GitHub Stats
-![Stars](https://img.shields.io/github/stars/Bheesham-mm?style=social)
-![Followers](https://img.shields.io/github/followers/Bheesham-mm?style=social)
+![Stars](https://img.shields.io/github/stars/OfficialBharat?style=social)
+![Followers](https://img.shields.io/github/followers/OfficialBharat?style=social)
 
 **Project Roadmaps**
 
@@ -59,4 +59,4 @@
 ## ✨ Let's Connect!
 - [Portfolio](#)
 - [LinkedIn](#) 
-- [Email](mailto:bhk25mm@gmail.com)
+- [Email](mailto:bhartu789@gmail.com)
